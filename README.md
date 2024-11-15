@@ -26,7 +26,7 @@ You will need a modern web browser to run the project locally. Additionally, an 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SujalAgrawal08/currency-converter.git
+   git clone https://github.com/SujalAgrawal08/Currency-converter.git
 2. Open the index.html file in your browser:
 
    ```bash
